@@ -4,4 +4,4 @@ import datetime
 date = datetime.datetime.now()
 formated_date = date.strftime("%d/%m/%Y")
 
-print("Date:", formated_date)
+print("Today is", formated_date)
