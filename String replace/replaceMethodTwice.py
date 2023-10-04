@@ -1,10 +1,7 @@
 # Can a string be replaced twice?
-string = "A B C"
-modified_string = string.replace("A", "X")
-modified_string2 = string.replace("B", "Y")
-modified_string3 = string.replace("C", "Z")
-
+string = "Python is a powerful programming language."
+modified_string = string.replace("Python", "JavaScript")
+modified_string2 = modified_string.replace("JavaScript", "GO")
 print(string)
 print(modified_string)
 print(modified_string2)
-print(modified_string3)
