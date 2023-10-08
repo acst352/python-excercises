@@ -1,3 +1,4 @@
+# Make a program that prints 3 random numbers.
 import random
 
 # Generate and print 3 random numbers
