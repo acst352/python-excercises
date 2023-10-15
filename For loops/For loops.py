@@ -1,5 +1,8 @@
 # Make a program that lists the countries in the set
-# clist = ['Canada','USA','Mexico','Australia']
+clist = ["Canada", "USA", "Mexico", "Australia"]
+
+for n in clist:
+    print(n)
 
 # Create a loop that counts from 0 to 100
 
