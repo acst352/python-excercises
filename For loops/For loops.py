@@ -5,6 +5,8 @@ for n in clist:
     print(n)
 
 # Create a loop that counts from 0 to 100
+for i in range(101):
+    print(i)
 
 # Make a multiplication table using a loop
 
